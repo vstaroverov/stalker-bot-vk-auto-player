@@ -1,0 +1,14 @@
+# Конфиг с токеном и личными настройками
+config.json
+
+# Личные данные и история
+feedback.json
+hunt_targets.json
+
+# Python кэш
+__pycache__/
+*.pyc
+*.pyo
+
+# Служебные
+.deps_installed

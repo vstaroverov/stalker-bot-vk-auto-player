@@ -1,0 +1,15 @@
+{
+  "token": "ВАШ_VK_ТОКЕН_ЗДЕСЬ",
+  "peer_id": "ID_ЧАТА_С_БОТОМ",
+  "model": "llama3.2:latest",
+  "strategy": "",
+  "heal_threshold": 30,
+  "eat_threshold": 30,
+  "rest_threshold": 50,
+  "explore_anomaly": true,
+  "bolt_refill": true,
+  "bolt_threshold": 50,
+  "explore_stashes": true,
+  "fishing_enabled": true,
+  "fish_sell_auto": true
+}
